@@ -1,0 +1,16 @@
+name: jobshop-ciencias-2025
+id: ari:cloud:compass:84a2931b-8d59-48b8-a0fb-6839fd9f3a05:component/26d126c0-da49-48d2-abdc-0cdcb10f0c61/12221446-b00e-4f46-8322-eb2471cd1f92
+description: Jobshop Ciências 2025 - Universidade de Lisboa
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/airappsco/jobshop-ciencias-2025
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
