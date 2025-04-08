@@ -26,9 +26,9 @@
  
  ## Key Dates
  
- * **Submissions Open**: April 8 at 08:00 (8AM)
+ * **Submissions Open**: April 8 at 10:00 (10AM)
  * **Submissions Close**: April 9 at 13:00 (1PM)
- * **Winner Announcement**: At the Air Apps booth at the University of Lisbon Job Fair. April 9 at 15:00 (3PM)
+ * **Winner Announcement**: At the Air Apps booth at the University of Lisbon Job Fair. April 9 at 16:00 (4PM)
  
  ## Rules & Eligibility
  
