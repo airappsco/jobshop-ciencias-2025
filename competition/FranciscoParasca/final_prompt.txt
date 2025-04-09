@@ -1,0 +1,65 @@
+Prompt final:
+
+You are a senior web design expert specializing in minimalist, responsive landing pages. Create a visually striking and user-friendly landing page concept for Air Apps using a modern, clean layout that emphasizes the brand’s azure-blue color palette and ease of use.  
+
+### Company Background:  
+Air Apps is a global mobile app developer and publisher focused on creating innovative solutions that simplify users’ lives and help them achieve their goals. With over 30 apps across Fitness, Productivity, Creativity, and Learning categories, the company has reached 100 million downloads worldwide and maintains 3 million monthly downloads, positively impacting users globally.  
+
+---
+
+### Visual Guidelines:  
+
+Navbar:  
+Items: "Products," "Contact Us," company logo, and "Get One Month Free" button
+
+Hero Section:  
+Central Image:
+Concept: A "digital brain" with glowing neural networks (blue-tech → neon-purple gradient) emitting holograms of code and geometric shapes.
+Details: Cyan particles representing AR data streams.
+Overlay: 3D title "Empower Your World" with neon glow effects and luminous edges.
+
+Use Cases Section:  
+Main Composition: • Floating smartphone • Screen displaying 4 key Air Apps:
+Air Productivity Tagline: "Maximize your potential." Description: "Transform how you work and stay focused. Manage, organize, and complete tasks efficiently."
+Air Fitness Tagline: "Be your best self." Description: "Achieve physical goals and nurture mental health through personalized workouts."
+Air Creative Tagline: "Unleash your creativity." Description: "Design and customize how you share life, whether you're a pro or enthusiast."
+Air Learning Tagline: "Develop your superpowers." Description: "Upgrade skills and transform your future with interactive learning tools." • Viewport-based dynamic reflection system
+Background Elements: • Animated digital circuits with cyan pulses • Energy propagation effects on interaction
+
+Air Apps One Section:  
+Main Visual: Subscription promo for bundled app access
+Copy: "Air Apps One bundles 40+ apps into one easy subscription. Only $19.99/month."
+Background: Animated digital circuits with pulsating cyan lines
+
+Footer:  
+Background: Abstract "digital universe" texture (purple → black gradient)
+Final Touch: Air Apps logo as a static hologram (tech-blue with particle shadow)
+Credit: "Francisco Parasca | JobShop Ciencias 2025 Contest Entry"
+
+---
+
+### Technical Specifications:  
+- Image Style:  
+  - Minimalist 3D with neon lighting  
+  - Color Palette: Black (
+#0A0A0A) + Cyan (
+#00FFE0) + Purple (
+#7B3CFF)  
+- Interactivity:  
+  - Card Hover: Smooth zoom + border glow  
+  - Scroll: Holographic parallax (e.g., particles move slower than background)  
+
+---
+
+### Creative Alignment:  
+- Include "hand interacting with hologram" icons in the demo section.  
+- Implement smooth transitions using Three.js for 3D elements.  
+- Dont use images
+
+Deliverables:  
+Modern, conversion-focused design prioritizing technical performance (90+ Lighthouse score) while maintaining brand identity.
+
+Link da Claude:
+
+
+https://claude.ai/share/c8fbf074-6dc3-483a-867a-9f38d28dd007
