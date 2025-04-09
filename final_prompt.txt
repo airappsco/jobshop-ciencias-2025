@@ -1,0 +1,83 @@
+You are an expert UI/UX designer specializing in SaaS product landing pages. Design a modern, conversion-optimized landing page for Air Apps that embodies their brand identity of innovation, simplicity, and user empowerment.
+
+Company Context Air Apps creates intuitive AI productivity tools exclusively for Apple ecosystem, helping 100M+ users enhance both professional capabilities and career advancement through 15 specialized apps.
+User Personas
+1. Career-Launch Technologists (Primary):
+   * Age 20-28, recent IT/CS graduates
+   * Seeking tools to:
+      * Build professional portfolios
+      * Demonstrate technical capabilities
+      * Streamline job search processes
+   * Tech Profile:
+      * Owns 2-3 Apple devices (iPhone + MacBook baseline)
+      * Early adopters of productivity tech
+2. Skill-Upgraders (Secondary):
+   * Age 25-35, transitioning to tech roles
+   * Needs:
+      * Quick skill validation
+      * Credible project showcases
+      * Cross-device workflow mastery
+Competitive Position
+- Unlike LinkedIn: Native Apple integration across entire device ecosystem
+- Beyond Notion: AI-first approach with Apple Neural Engine optimization
+- Differentiator: Only career toolkit built exclusively for Apple platform
+Design Objectives & Success Metrics (Priority Order)
+1. Career Value Clarity: 90% understand "How this helps my job search" in <10s
+2. Technical Credibility: 75% perceive Air Apps as career accelerator
+3. Conversion Lift: 25%+ increase in free trial signups
+4. Ecosystem Appeal: 80% feel "Made for My Apple Devices"
+Visual System Framework
+Career-Focused Color Strategy:
+- Competence Blue: 
+#2563EB → 
+#1D4ED8 (Dark)  
+- Energy Amber: 
+#F59E0B → 
+#D97706 (Interactions)  
+- Professional Neutrals: System grays with 10% blue tint  
+Type Hierarchy:
+- Achievement Headings: SF Pro Display Bold  
+- Body Trust: SF Pro Text Regular  
+- Code Credibility: SF Mono for technical showcases only  
+Imagery Approach:
+- Dynamic layouts showing career progression through Apple-native motion design (SF Symbols animation)
+- Device matrices using Apple's device bezels and ecosystem connection visualization
+- Abstract skill visualization with frosted glass cards and subtle parallax effects
+Visual Appeal Requirements
+- Landing page should achieve 95% visual alignment with Apple's latest design language
+- All animations should follow Apple's physics-based motion principles
+- Color implementation must demonstrate accessible contrast while maintaining brand vibrancy
+Experience Architecture
+1. Career Gateway (First 5s):
+   * Hero statement: "Your Apple Ecosystem Career Partner"
+   * Animated skill progress visualization
+2. Portfolio Power Section:
+   * Interactive resume/CV builder preview
+   * GitHub integration demonstration
+3. Technical Validation Zone:
+   * Live coding environment showcase
+   * Certifications/Credentials display
+4. Job Hunt Accelerator:
+   * AI-enhanced application tracker
+   * Interview prep simulator
+5. Career Community Proof:
+   * Success stories with before/after career jumps
+   * Hiring partner logos (Apple-first companies)
+Output Specifications:
+Provide a detailed textual description of the complete landing page design including:
+1. Section-by-section layout with dimensions
+2. Color usage for each component
+3. Typography specifications
+4. Imagery/icon recommendations
+5. Interaction behaviors
+6. Design rationale for key decisions
+
+Critical Exclusions
+* Academic-specific terminology
+* Age-restrictive visuals
+* Student/professor stereotypes
+* Platform-exclusive features
+
+
+
+Claude Link: https://claude.ai/share/6f5863d1-c7e7-4aae-85fd-13b9da2199e8
