@@ -4,6 +4,10 @@
 
 https://claude.site/artifacts/fa692461-81e6-461e-9e65-8a977ead9175
 
+## Student Email
+
+pacsantos@fc.ul.pt, fc47806@fc.ul.pt or pasantos@andrew.cmu.edu
+
 ## Prompt
 ```
 You are the greatest expert in frontend development and are tasked with creating an amazing novel landing page for a company called Air Apps. Air Apps is a company that develops Apple Apps using AI. This company brand message is: "Where AI Meets AR to Empower Your World". 
