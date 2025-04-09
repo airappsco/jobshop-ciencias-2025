@@ -1,3 +1,4 @@
+
 You are a professional designer, and Air Apps is hiring you to develop a landing page for their company. Create a static, institutional landing page for Air Apps, a company that develops applications for iOS devices. The page should reflect the brand’s identity with a dark, modern, and elegant design. The aesthetic can be inspired by Apple’s visual style, while maintaining its own unique identity.
 The page structure should include:
 
@@ -50,3 +51,6 @@ Design Guidelines
 
 
 https://claude.site/artifacts/7ece6b3c-286f-4e4e-a007-cbf798d6c2bhttps://claude.site/artifacts/7ece6b3c-286f-4e4e-a007-cbf798d6c2baa
+
+fc61879@fc.ul.pt or fc61879@alunos.ciencias.ulisboa.pt
+If by any chance I not answer, pls send to ferreiramiguel231@gmail.com
