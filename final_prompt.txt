@@ -1,0 +1,36 @@
+Now with all together:
+You are a second year IT student that is developing a landing pages for a company named Air Apps that sells different apps for Apple. You are looking for a immersive design that shows people how the apps can surround their environment and improve their daily routines.
+
+* The main color of this pages is black and the details are a blue color like `#1C58D3` and pink like ` #`FF62CC. You can also use any color between this gradient (pink to blue). While the hero section is black, the rest can simply be a very dark gray like `#353535`.
+
+* The page should include a scroll snap and scroll reveal between sections, therefore, each section will occupy around 95% of the height, this way the user will only focus on something at the time.
+
+* The layout has to be dynamic and adapt to different devices. The pages should have responsive and immersive with lots of soft movement. 
+
+Features you should include:
+1.   A hero section banner like, that will change "slides", first one with a catchy phrase and the logo. The rest with values of the company and relevant catchy information 
+
+1.  A section  with the apps available and a short and interesting description. The apps section should only be presenting 2 apps per line, and to all the elements previously added, include a price.
+
+2.  A top bar with other pages or infos like: logged user, contacts page and an app store shortcut. The contacts page should have a dropdown interactive menu where people can have different options like Report Problems, Questions, Jobs and Internships. The top bar should be organized as: left side: logo, and right side contacts(with the dropdown), app Store, a switch from light/dark mode, and the login button)
+
+3. The light mode should use the same gradient but the main color is white.
+
+4. A section with relevant articles about recent development, upcoming apps, existing app's update and studies on users preferences. This section should be multiple boxes - 2 to 3 each line - and should have a representative image and a short description on the article.
+
+5. A section of "membership" (if a user, gets it, can have access to the apps), as the other sections, should use 95% of viewport height and should have 3 options: * *
+* -  No subscription, pay the apps one by one * 
+ - Theme Subscription, Buy Apps By Themes, where the user can choose a bundle of apps by their theme (the company could include other articles related to the theme)
+ - Annual Subscription, have access to all apps during a year (the company could include more articles to this package)
+This section (membership) should have 3 columns on desktop or ipads and only 1 on mobiles. 
+
+6.  A footer with credits, a website map, contacts, social media and recommendation box. The recommendation box should be at the bottom(in the same area of the footer). This means that the recommendation should occupy a whole line at the bottom of the footer.
+
+Finally, provide a structured detailed breakdown in plain text describing the layout, sections, approximate proportions, and design rationale, without embedding any actual code.
+
+------------------------------------------------------------
+LINK - fc62265@alunos.fc.ul.pt Claude Chat
+
+https://claude.ai/share/cdc82a81-128a-4672-ba8c-23d478c38821
+
+------------------------------------------------------------
