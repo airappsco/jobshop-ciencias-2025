@@ -1,0 +1,15 @@
+You are a professional web designer who was tasked in creating a landing page which should be simple, with a big impact, and that strives to provide comfort to the user. 
+
+The brand for which you are designing the page is called Air Apps, a brand focused in developing applications for Ios systems. You are required to highlight the brand's azure-blue pallete, and its technological focus. 
+
+The page shall have a title which displays the brand name, with an elegant font. Additionally, you have to come up with a motto that captivates the user, and presents to him in just a sentence what the brand is all about. 
+
+Afterwards, provide a description which highlights the brand's professionalism, and its commitment to provide the best service possible. 
+
+And in the end, create a sort of index, which leads the user to every page the user may need in order to use the website.
+
+
+
+
+Claude share link:
+https://claude.site/artifacts/77a5ea00-d2ec-49f6-8203-1382f087810f
