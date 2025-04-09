@@ -1,0 +1,165 @@
+You are a top-tier UX/UI and front-end designer. 
+
+Please generate a complete, visually appealing HTML layout (as structured code) for a landing page for **Air Apps**, a company that creates high-quality **iOS productivity applications** for iPhone and iPad.
+
+---
+
+🔧 TASK:
+
+Output a complete semantic HTML layout with:
+
+- Clear section-by-section structure
+- HTML5 semantic tags (`<section>`, `<header>`, `<footer>`, etc.)
+- Class names and inline comments
+-⚠️ No CSS – instead, include styling descriptions as HTML comments
+- Prioritize mobile-first structure with a modern, native iOS look
+
+---
+
+🖤 DARK MODE DESIGN:
+
+- Background: `#000000` (pure black)
+- Primary Accent: `#A259FF` (vibrant purple)
+- Text: white or light gray
+- Font: Clean sans-serif (max 2 fonts — one for headings, one for body)
+- Layout: Centered and well-aligned
+- Spacing: Use **compact** vertical spacing between sections
+
+---
+
+📱 CONTEXT:
+
+Air Apps builds sleek, globally-used iOS tools for productivity, scanning, translation, and device optimization.
+
+The landing page should feel like a native iOS interface and cater to mobile-first users.
+
+---
+
+📐 STRUCTURE TO FOLLOW:
+
+### 1. `<header>`
+
+- Fixed black top bar
+- Left: **"Air Apps"** (bold text)
+- Right: Settings icon (⚙️ or placeholder)
+- Slight bottom shadow
+- Use **flexbox** layout (indicate via comment)
+
+---
+
+### 2. `<section id="hero">`
+
+- Headline:  
+  “**Powerful iOS Apps. Limitless Productivity.**”
+
+- Subheading:  
+  Short supporting phrase highlighting seamless experience on iPhone and iPad
+
+- No CTA button here  
+  Instead, include a **scroll indicator** (e.g. ↓ arrow)
+
+- Background:
+  - Use a **clean vertical or diagonal gradient**
+  - Example: deep purple to soft black, or similar modern blend
+  - ❌ Do NOT use any image or illustration in the background
+
+- Transitions:
+  - Fade-in on headline
+  - Slow animation on scroll cue
+
+- Layout:  
+  Natural stacking of elements — heading, subheading, and scroll icon
+
+---
+
+### 3. `<section id="apps">`
+
+- Title: “**Our Top iOS Apps**”
+- Include 4 clickable cards/blocks:
+  - App A, App B, Translate Now, Scanner App (or similar)
+  - Use icons, letters, or app-style symbols
+
+- Layout:
+  - Horizontal layout on desktop (comment this)
+  - Stacked layout on mobile
+
+- Transition:
+  - Cards should **slide in** one by one
+- Prevent overlap by stacking cards in rows or wrapping them with flex container
+
+---
+
+### 4. `<section id="metrics">`
+
+- Title: “**Global Impact**”
+- Include 4 stat cards with icons above the text:
+  - 25M+ Monthly Users
+  - 30+ iOS Tools Built
+  - 175 Countries Reached
+  - 4.8★ App Store Rating
+
+- Transition:
+  - Fade-up on scroll (indicate as comment)
+
+---
+
+### 5. `<section id="features">`
+
+- Title: “**Why iOS Users Love Us**”
+- Include 3 feature cards:
+  - Native Design for iPhone/iPad
+  - Cloud Sync
+  - Beautiful UI
+
+- Layout:
+  - Equal-width cards using flexbox
+  - Add comment: hover glow effect (if styled)
+
+---
+
+### 6. `<section id="testimonial">`
+
+- Centered user quote inside a purple box:
+  - “*Air Apps helps me get more done, wherever I am.*”
+  - — Ana Martins, UX Researcher
+
+- Styling:
+  - Soft rounded corners
+  - Word-by-word fade-in animation (comment this)
+
+---
+
+### 7. `<section id="cta">`
+
+- Call to action banner:
+  - “**Want to help shape the future of iOS productivity?**”
+  - CTA Button: “**See Open Positions**”
+
+- Background:
+  - Gradient from purple to dark gray
+
+- Button hover:
+  - Add bounce/glow (comment only)
+- Add spacing between this and other sections
+
+---
+
+### 8. `<footer>`
+
+- Compact layout
+- Include navigation links:
+  - Products, About, Careers, Support
+
+- Social media icons:
+  - Instagram, TikTok, Gmail, Facebook (use emoji or `<i>` placeholder tags)
+
+- Background: `#111` or `#1a1a1a`
+
+- Icons:
+  - Glow or shift color on hover (describe via comments)
+- Layout with flexbox/grid (mention in comment)
+
+https://claude.site/artifacts/cb85764c-ce50-405b-834a-95cc194a5fb3
+
+andreibarb2005@tecnico.ulisboa.pt
+andreibarb2005@gmail.com
