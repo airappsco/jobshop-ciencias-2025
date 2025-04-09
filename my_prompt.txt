@@ -1,0 +1,7 @@
+Rodrigo Neto 09/04/2025
+Chat Link:
+https://claude.ai/share/7a1f16ea-c5fc-4216-b60d-0e298ce6359f
+
+Final Prompt:
+"You are a senior web design expert specialized in minimalistic, responsive landing pages. Please create a visually compelling, user-friendly landing page concept for Air Apps. Focus on a modern, clean layout that highlights the brand's main theme, which is the color black and the air, so include a few minimalistic decorations of elements related to the sky and emphasizes ease of use. 1. Describe how to present the most used apps developed by air apps in an animated sense, as if wind was blowing on them when the user scrolls 2. Present a litle introduction and an image on each feature and main projects developed by the app. 3. Describe how to showcase product features and pricing. 4. A section that allows the users to navigate throw different aspects of the website, such as the brand story, where to find and contact them, 5. Suggest typography choices, color palette guidelines, and subtle on-scroll animations. 6. Ensure the design is accessible, following WCAG standards. Finally, provide a structured breakdown in plain text describing the layout, sections, approximate proportions, and design rationale, without embedding any actual code."
+
