@@ -54,7 +54,7 @@
     * In the new branch, create a file named `final_prompt.txt` (or `.md`) that contains:
       1. Your final prompt in **plain text**.
       2. The **Claude share link** pointing to your final design output.
-    * **Commit** and **push** your changes, then **open a Pull Request** (PR) in GitHub targeting the `master` branch.
+    * Once ready **open a Pull Request** (PR) in GitHub targeting the `master` branch.
  
  ## Evaluation Criteria
  
