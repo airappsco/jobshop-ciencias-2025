@@ -1,0 +1,56 @@
+
+You are a professional designer, and Air Apps is hiring you to develop a landing page for their company. Create a static, institutional landing page for Air Apps, a company that develops applications for iOS devices. The page should reflect the brand’s identity with a dark, modern, and elegant design. The aesthetic can be inspired by Apple’s visual style, while maintaining its own unique identity.
+The page structure should include:
+
+Header (before the Hero Section)
+Create a fixed header at the top of the page with the just Air Apps logo on the left corner and a navigation menu on the right with several links laid out across the header. The background should be dark or transparent, with a minimalist, responsive layout and clean typography. The header must not overlap the Hero Section — ensure proper spacing below the header (e.g., margin-top) to avoid this.
+
+Hero Section
+A visually impactful hero section, centered on the page. This section should include:
+* A headline with a strong impact;
+* Two centered call-to-action buttons (e.g., "Try now" and "Explore apps");
+* Below the headline, add a visually appealing section with placeholders for app icons (use <img> tags with src="placeholder-icon.png"). These will later be replaced with actual icons.
+* These icons should be laid out in a horizontal row, moving smoothly to the right in a continuous, slow, infinite loop (like an automatic carousel that never stops);
+* The movement should be fluid and seamless, and when an icon exits on the right, it should reappear on the left, creating a perfect loop;
+* Icons should have uniform size, a modern style, and consistent spacing;
+* The background of this area should be clean and highlight the icons (can be white or a subtle gradient);
+* The overall visual should be elegant and modern, with strong visual appeal, but the hero section should occupy a moderate height and must not overlap the header.
+
+About Us Section
+Include clear and concise text describing the company, along with success indicators such as number of downloads, featured apps, and global presence. These data points should be visually presented, centered, and side by side, without taking up too much vertical space.
+
+App Areas Section
+Highlight four main areas of apps developed by the company:
+* Air Productivity
+* Air Fitness
+* Air Learning
+* Air Creative
+Each should be accompanied by a background image. Present these in a 2x2 grid layout (two columns, two rows), maintaining visual balance. Each area should:
+* Include a representative image;
+* Display the name of the area;
+* Work as a flip card — when hovered (on desktop) or tapped (on mobile), the card should flip and show a short description of the type of apps associated with that category;
+* Each area must have a clear and brief definition of the types of applications it represents.
+
+Team & Careers Section
+Include a section about the team and career opportunities (as Title), with a visual invitation to join the company and a button to view open positions and no illustrative image.
+
+Footer
+Add a simple footer with:
+* Useful links (About, Support, Careers, etc.);
+* Social media icons, aligned horizontally;
+* Footer sections must be well-spaced horizontally, so that all information is visible with little to no vertical scrolling;
+* Include a closing statement that reflects Air Apps' values.
+
+Design Guidelines
+* Use a dark theme with purple and white accents;
+* Typography should be clean, well-structured, and clearly hierarchical;
+* The composition should be balanced with minimal vertical scrolling;
+* Avoid excessive white space or misaligned elements;
+* Do not use emojis in text areas;
+* Place a purple underline or detail below each subtitle.
+
+
+https://claude.site/artifacts/7ece6b3c-286f-4e4e-a007-cbf798d6c2bhttps://claude.site/artifacts/7ece6b3c-286f-4e4e-a007-cbf798d6c2baa
+
+fc61879@fc.ul.pt or fc61879@alunos.ciencias.ulisboa.pt
+If by any chance I not answer, pls send to ferreiramiguel231@gmail.com
