@@ -47,14 +47,40 @@
  2. **Prepare Your Final Prompt**
     * Once you’ve perfected your prompt (the single best version), **save it**.
     * Retrieve the **Share Link** of your final Claude conversation.
- 3. **Open a Branch & Create a PR**
-    * Fork or clone the repository as instructed in class or via your course materials.
-    * Create and switch to a new branch from `master`.
-      * Example: `git checkout -b competition/YourName`
-    * In the new branch, create a file named `final_prompt.txt` (or `.md`) that contains:
-      1. Your final prompt in **plain text**.
-      2. The **Claude share link** pointing to your final design output.
-    * Once ready **open a Pull Request** (PR) in GitHub targeting the `master` branch.
+ 3. **Step-by-Step Submission Process**
+    * **Forking the Repository**
+      * Go to the challenge repository (https://github.com/airappsco/jobshop-ciencias-2025).
+      * Click the "Fork" button in the top-right corner to create a copy under your account.
+    * **Cloning Your Fork**
+      * On your forked repository page, click "Code", then copy the URL.
+      * In your terminal, run:
+        ```
+        git clone https://github.com/your-username/jobshop-ciencias-2025.git
+        cd jobshop-ciencias-2025
+        ```
+    * **Creating a Branch**
+      * Create a new branch from `master`:
+        ```
+        git checkout -b competition/YourName
+        ```
+    * **Making Changes**
+      * Create a file named `final_prompt.txt` (or `.md`) that contains:
+        1. Your final prompt in **plain text**.
+        2. The **Claude share link** pointing to your final design output.
+      * After making changes:
+        ```
+        git add .
+        git commit -m "Add final prompt and Claude share link"
+        ```
+    * **Pushing to Your Fork**
+      * Push your branch to your GitHub fork:
+        ```
+        git push origin competition/YourName
+        ```
+    * **Creating a Pull Request**
+      * Go to your fork on GitHub.
+      * Click "Compare & pull request".
+      * Review your changes, write a title and description, and submit the pull request targeting the `master` branch of the original repository.
  
  ## Evaluation Criteria
  
